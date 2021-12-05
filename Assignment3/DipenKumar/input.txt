@@ -1,0 +1,26 @@
+Insert Anuj
+Insert Anuja
+Insert Anuji
+Insert krAnuj
+Insert kumarAnuj
+Insert Dipen
+Insert
+StringsWithPrefix result1 Anuj
+Insert Anuj
+StringsWithSuffix result2 Anuj
+StringsWithPrefix result3 Di
+StringsWithSuffix result4 en
+StringsWithSuffix result5
+Size result1
+Size result2
+Size result3
+Size result4
+Size result7
+Size result5
+Remove result1
+Remove result2
+Remove result3
+Remove result4
+Remove result5
+Remove result7
+size result1
